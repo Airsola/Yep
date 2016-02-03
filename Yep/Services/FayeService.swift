@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import MZFayeClient
+//import MZFayeClient
 import RealmSwift
 
 protocol FayeServiceDelegate: class {
